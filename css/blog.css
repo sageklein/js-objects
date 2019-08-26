@@ -1,0 +1,31 @@
+
+body {
+    background-color: rgb(236, 236, 236);
+    margin: 0;
+    font-family: Tahoma;
+    min-width: 500px;
+}
+
+.article {
+    padding: 10px;
+    border: 1px solid blue;
+}
+
+.article__header {
+    font-size: 1.5em;
+}
+
+.article__footer {
+    padding: 0 30px;
+}
+
+.goldenrod {
+    background-color: goldenrod;
+}
+
+.dashed {
+    border: 1px dashed black;
+}
+.important {
+    color: rgb(76, 0, 255);
+}
